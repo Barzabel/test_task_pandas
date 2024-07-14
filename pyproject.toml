@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "test-task-pandas"
+version = "0.1.0"
+description = ""
+authors = ["Barzabel <Kochenko1995@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+openpyxl = "^3.1.5"
+numpy = "^2.0.0"
+pydantic = "^2.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

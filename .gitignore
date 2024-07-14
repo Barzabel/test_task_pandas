@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.trunk
+.env
+.vscode/
+.coverage
+*.json
+*.xlsx
+data/
